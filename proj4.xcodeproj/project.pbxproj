@@ -73,7 +73,6 @@
 		B73EFC671C95D782001AC923 /* pj_fileapi.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBA51C95D781001AC923 /* pj_fileapi.c */; };
 		B73EFC681C95D782001AC923 /* PJ_fouc_s.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBA61C95D781001AC923 /* PJ_fouc_s.c */; };
 		B73EFC691C95D782001AC923 /* pj_fwd.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBA71C95D781001AC923 /* pj_fwd.c */; };
-		B73EFC6A1C95D782001AC923 /* pj_fwd3d.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBA81C95D781001AC923 /* pj_fwd3d.c */; };
 		B73EFC6B1C95D782001AC923 /* PJ_gall.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBA91C95D781001AC923 /* PJ_gall.c */; };
 		B73EFC6C1C95D782001AC923 /* pj_gauss.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBAA1C95D781001AC923 /* pj_gauss.c */; };
 		B73EFC6D1C95D782001AC923 /* pj_gc_reader.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBAB1C95D781001AC923 /* pj_gc_reader.c */; };
@@ -95,7 +94,6 @@
 		B73EFC7D1C95D782001AC923 /* pj_init.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBBB1C95D782001AC923 /* pj_init.c */; };
 		B73EFC7E1C95D782001AC923 /* pj_initcache.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBBC1C95D782001AC923 /* pj_initcache.c */; };
 		B73EFC7F1C95D782001AC923 /* pj_inv.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBBD1C95D782001AC923 /* pj_inv.c */; };
-		B73EFC801C95D782001AC923 /* pj_inv3d.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBBE1C95D782001AC923 /* pj_inv3d.c */; };
 		B73EFC811C95D782001AC923 /* PJ_isea.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBBF1C95D782001AC923 /* PJ_isea.c */; };
 		B73EFC821C95D782001AC923 /* PJ_krovak.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBC01C95D782001AC923 /* PJ_krovak.c */; };
 		B73EFC831C95D782001AC923 /* PJ_labrd.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBC11C95D782001AC923 /* PJ_labrd.c */; };
@@ -117,7 +115,6 @@
 		B73EFC931C95D782001AC923 /* PJ_mbtfpq.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD11C95D782001AC923 /* PJ_mbtfpq.c */; };
 		B73EFC941C95D782001AC923 /* PJ_merc.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD21C95D782001AC923 /* PJ_merc.c */; };
 		B73EFC951C95D782001AC923 /* PJ_mill.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD31C95D782001AC923 /* PJ_mill.c */; };
-		B73EFC961C95D782001AC923 /* PJ_misrsom.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD41C95D782001AC923 /* PJ_misrsom.c */; };
 		B73EFC971C95D782001AC923 /* pj_mlfn.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD51C95D782001AC923 /* pj_mlfn.c */; };
 		B73EFC981C95D782001AC923 /* PJ_mod_ster.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD61C95D782001AC923 /* PJ_mod_ster.c */; };
 		B73EFC991C95D782001AC923 /* PJ_moll.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBD71C95D782001AC923 /* PJ_moll.c */; };
@@ -149,7 +146,6 @@
 		B73EFCB31C95D782001AC923 /* pj_release.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF11C95D782001AC923 /* pj_release.c */; };
 		B73EFCB41C95D782001AC923 /* PJ_robin.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF21C95D782001AC923 /* PJ_robin.c */; };
 		B73EFCB51C95D782001AC923 /* PJ_rpoly.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF31C95D782001AC923 /* PJ_rpoly.c */; };
-		B73EFCB61C95D782001AC923 /* PJ_sch.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF41C95D782001AC923 /* PJ_sch.c */; };
 		B73EFCB71C95D782001AC923 /* PJ_sconics.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF51C95D782001AC923 /* PJ_sconics.c */; };
 		B73EFCB81C95D782001AC923 /* PJ_somerc.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF61C95D782001AC923 /* PJ_somerc.c */; };
 		B73EFCB91C95D782001AC923 /* PJ_stere.c in Sources */ = {isa = PBXBuildFile; fileRef = B73EFBF71C95D782001AC923 /* PJ_stere.c */; };
@@ -255,7 +251,6 @@
 		B73EFBA51C95D781001AC923 /* pj_fileapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_fileapi.c; sourceTree = "<group>"; };
 		B73EFBA61C95D781001AC923 /* PJ_fouc_s.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_fouc_s.c; sourceTree = "<group>"; };
 		B73EFBA71C95D781001AC923 /* pj_fwd.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_fwd.c; sourceTree = "<group>"; };
-		B73EFBA81C95D781001AC923 /* pj_fwd3d.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_fwd3d.c; sourceTree = "<group>"; };
 		B73EFBA91C95D781001AC923 /* PJ_gall.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_gall.c; sourceTree = "<group>"; };
 		B73EFBAA1C95D781001AC923 /* pj_gauss.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_gauss.c; sourceTree = "<group>"; };
 		B73EFBAB1C95D781001AC923 /* pj_gc_reader.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_gc_reader.c; sourceTree = "<group>"; };
@@ -277,7 +272,6 @@
 		B73EFBBB1C95D782001AC923 /* pj_init.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_init.c; sourceTree = "<group>"; };
 		B73EFBBC1C95D782001AC923 /* pj_initcache.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_initcache.c; sourceTree = "<group>"; };
 		B73EFBBD1C95D782001AC923 /* pj_inv.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_inv.c; sourceTree = "<group>"; };
-		B73EFBBE1C95D782001AC923 /* pj_inv3d.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_inv3d.c; sourceTree = "<group>"; };
 		B73EFBBF1C95D782001AC923 /* PJ_isea.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_isea.c; sourceTree = "<group>"; };
 		B73EFBC01C95D782001AC923 /* PJ_krovak.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_krovak.c; sourceTree = "<group>"; };
 		B73EFBC11C95D782001AC923 /* PJ_labrd.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_labrd.c; sourceTree = "<group>"; };
@@ -299,7 +293,6 @@
 		B73EFBD11C95D782001AC923 /* PJ_mbtfpq.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_mbtfpq.c; sourceTree = "<group>"; };
 		B73EFBD21C95D782001AC923 /* PJ_merc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_merc.c; sourceTree = "<group>"; };
 		B73EFBD31C95D782001AC923 /* PJ_mill.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_mill.c; sourceTree = "<group>"; };
-		B73EFBD41C95D782001AC923 /* PJ_misrsom.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_misrsom.c; sourceTree = "<group>"; };
 		B73EFBD51C95D782001AC923 /* pj_mlfn.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_mlfn.c; sourceTree = "<group>"; };
 		B73EFBD61C95D782001AC923 /* PJ_mod_ster.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_mod_ster.c; sourceTree = "<group>"; };
 		B73EFBD71C95D782001AC923 /* PJ_moll.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_moll.c; sourceTree = "<group>"; };
@@ -331,7 +324,6 @@
 		B73EFBF11C95D782001AC923 /* pj_release.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pj_release.c; sourceTree = "<group>"; };
 		B73EFBF21C95D782001AC923 /* PJ_robin.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_robin.c; sourceTree = "<group>"; };
 		B73EFBF31C95D782001AC923 /* PJ_rpoly.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_rpoly.c; sourceTree = "<group>"; };
-		B73EFBF41C95D782001AC923 /* PJ_sch.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_sch.c; sourceTree = "<group>"; };
 		B73EFBF51C95D782001AC923 /* PJ_sconics.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_sconics.c; sourceTree = "<group>"; };
 		B73EFBF61C95D782001AC923 /* PJ_somerc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_somerc.c; sourceTree = "<group>"; };
 		B73EFBF71C95D782001AC923 /* PJ_stere.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = PJ_stere.c; sourceTree = "<group>"; };
@@ -468,7 +460,6 @@
 				B73EFBA51C95D781001AC923 /* pj_fileapi.c */,
 				B73EFBA61C95D781001AC923 /* PJ_fouc_s.c */,
 				B73EFBA71C95D781001AC923 /* pj_fwd.c */,
-				B73EFBA81C95D781001AC923 /* pj_fwd3d.c */,
 				B73EFBA91C95D781001AC923 /* PJ_gall.c */,
 				B73EFBAA1C95D781001AC923 /* pj_gauss.c */,
 				B73EFBAB1C95D781001AC923 /* pj_gc_reader.c */,
@@ -490,7 +481,6 @@
 				B73EFBBB1C95D782001AC923 /* pj_init.c */,
 				B73EFBBC1C95D782001AC923 /* pj_initcache.c */,
 				B73EFBBD1C95D782001AC923 /* pj_inv.c */,
-				B73EFBBE1C95D782001AC923 /* pj_inv3d.c */,
 				B73EFBBF1C95D782001AC923 /* PJ_isea.c */,
 				B73EFBC01C95D782001AC923 /* PJ_krovak.c */,
 				B73EFBC11C95D782001AC923 /* PJ_labrd.c */,
@@ -512,7 +502,6 @@
 				B73EFBD11C95D782001AC923 /* PJ_mbtfpq.c */,
 				B73EFBD21C95D782001AC923 /* PJ_merc.c */,
 				B73EFBD31C95D782001AC923 /* PJ_mill.c */,
-				B73EFBD41C95D782001AC923 /* PJ_misrsom.c */,
 				B73EFBD51C95D782001AC923 /* pj_mlfn.c */,
 				B73EFBD61C95D782001AC923 /* PJ_mod_ster.c */,
 				B73EFBD71C95D782001AC923 /* PJ_moll.c */,
@@ -544,7 +533,6 @@
 				B73EFBF11C95D782001AC923 /* pj_release.c */,
 				B73EFBF21C95D782001AC923 /* PJ_robin.c */,
 				B73EFBF31C95D782001AC923 /* PJ_rpoly.c */,
-				B73EFBF41C95D782001AC923 /* PJ_sch.c */,
 				B73EFBF51C95D782001AC923 /* PJ_sconics.c */,
 				B73EFBF61C95D782001AC923 /* PJ_somerc.c */,
 				B73EFBF71C95D782001AC923 /* PJ_stere.c */,
@@ -749,7 +737,6 @@
 				B73EFCC21C95D782001AC923 /* pj_transform.c in Sources */,
 				B73EFC9C1C95D782001AC923 /* PJ_natearth.c in Sources */,
 				B73EFC6E1C95D782001AC923 /* pj_geocent.c in Sources */,
-				B73EFCB61C95D782001AC923 /* PJ_sch.c in Sources */,
 				B73EFCAE1C95D782001AC923 /* PJ_putp4p.c in Sources */,
 				B73EFCC51C95D782001AC923 /* PJ_urm5.c in Sources */,
 				B73EFCA31C95D782001AC923 /* PJ_ocea.c in Sources */,
@@ -787,7 +774,6 @@
 				B73EFC391C95D782001AC923 /* mk_cheby.c in Sources */,
 				B73EFC301C95D782001AC923 /* geod_set.c in Sources */,
 				B73EFCC01C95D782001AC923 /* PJ_tmerc.c in Sources */,
-				B73EFC801C95D782001AC923 /* pj_inv3d.c in Sources */,
 				B73EFCB11C95D782001AC923 /* PJ_qsc.c in Sources */,
 				B73EFC611C95D782001AC923 /* pj_ellps.c in Sources */,
 				B73EFC5D1C95D782001AC923 /* PJ_eck3.c in Sources */,
@@ -811,11 +797,9 @@
 				B73EFCBB1C95D782001AC923 /* pj_strerrno.c in Sources */,
 				B73EFCB71C95D782001AC923 /* PJ_sconics.c in Sources */,
 				B73EFCD91C95D782001AC923 /* rtodms.c in Sources */,
-				B73EFC6A1C95D782001AC923 /* pj_fwd3d.c in Sources */,
 				B73EFCBF1C95D782001AC923 /* PJ_tcea.c in Sources */,
 				B73EFC771C95D782001AC923 /* PJ_gstmerc.c in Sources */,
 				B73EFC8A1C95D782001AC923 /* PJ_lcca.c in Sources */,
-				B73EFC961C95D782001AC923 /* PJ_misrsom.c in Sources */,
 				B73EFC661C95D782001AC923 /* PJ_fahey.c in Sources */,
 				B73EFCB91C95D782001AC923 /* PJ_stere.c in Sources */,
 				B73EFCB41C95D782001AC923 /* PJ_robin.c in Sources */,
