@@ -1,0 +1,3 @@
+[submodule "proj4"]
+	path = proj4
+	url = https://github.com/OSGeo/proj.4.git
