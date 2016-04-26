@@ -3,6 +3,7 @@
 
 [![Build Status](https://api.travis-ci.org/Ryandev/Proj4-iOS.svg)](https://travis-ci.org/Ryandev/Proj4-iOS)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 ## Build
 Add this repository to your projects Cartfile
