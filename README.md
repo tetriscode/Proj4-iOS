@@ -1,10 +1,27 @@
-# Proj4 for iOS
 
-Builds Proj4 for Xcode as a framework using Carthage
+# Proj.4
 
-Add line: 
+[![Build Status](https://api.travis-ci.org/Ryandev/Proj4-iOS.svg)](https://travis-ci.org/Ryandev/Proj4-iOS)
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+## Build
+Add this repository to your projects Cartfile
 ```
-github 'RyanDev/Proj4-iOS' == 4.9.2
+github 'Ryandev/Proj4-iOS' == 4.9.2
+```
+and run ```carthage update```
+
+## Usage
+
+* Include built proj4.framework into xcode project and add header
+```objc
+#import <proj4/proj4.h>
 ```
 
-to your Cartfile
+
+## Documentation
+Full Proj.4 documentation can be found [here](https://github.com/OSGeo/proj.4/wiki)
+
+
+## License
+[MIT](https://github.com/OSGeo/proj.4/blob/master/COPYING)
