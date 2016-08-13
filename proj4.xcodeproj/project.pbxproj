@@ -617,6 +617,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B73EFB511C95CA12001AC923 /* Build configuration list for PBXNativeTarget "proj4" */;
 			buildPhases = (
+				B79C5D461D5F665800DBF9D0 /* Update Pro4.h header */,
 				B73EFB441C95CA12001AC923 /* Sources */,
 				B73EFB451C95CA12001AC923 /* Frameworks */,
 				B73EFB461C95CA12001AC923 /* Headers */,
@@ -645,7 +646,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B73EFB431C95CA12001AC923 /* Build configuration list for PBXProject "proj4" */;
+			buildConfigurationList = B73EFB431C95CA12001AC923 /* Build configuration list for PBXProject "Proj4" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -671,6 +672,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		B79C5D461D5F665800DBF9D0 /* Update Pro4.h header */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Update Pro4.h header";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cp ${SRCROOT}/proj4/src/proj_api.h ${SRCROOT}/inc/proj4.h\nexit 0";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		B73EFB441C95CA12001AC923 /* Sources */ = {
@@ -974,7 +992,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B73EFB431C95CA12001AC923 /* Build configuration list for PBXProject "proj4" */ = {
+		B73EFB431C95CA12001AC923 /* Build configuration list for PBXProject "Proj4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B73EFB4F1C95CA12001AC923 /* Debug */,

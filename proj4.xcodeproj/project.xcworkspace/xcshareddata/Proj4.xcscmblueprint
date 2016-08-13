@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EACD745766F5384CBC43A6E0EDD642C7469FFFB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EACD745766F5384CBC43A6E0EDD642C7469FFFB2" : 0,
+    "FBDCC58C53D1BC7ADB78E3E8F5585BD9BF908BF9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4ADEBBD4-A852-46D8-B5DF-BB1B55D3F5FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EACD745766F5384CBC43A6E0EDD642C7469FFFB2" : "Proj4-iOS\/",
+    "FBDCC58C53D1BC7ADB78E3E8F5585BD9BF908BF9" : "Proj4-iOS\/proj4\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Proj4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Proj4.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ryandev\/Proj4-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EACD745766F5384CBC43A6E0EDD642C7469FFFB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/OSGeo\/proj.4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBDCC58C53D1BC7ADB78E3E8F5585BD9BF908BF9"
+    }
+  ]
+}
