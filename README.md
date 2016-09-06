@@ -8,7 +8,7 @@
 ## Build
 Add this repository to your projects Cartfile
 ```
-github 'Ryandev/Proj4-iOS' == 4.9.2
+github 'tetriscode/Proj4-iOS' == 4.9.2
 ```
 and run ```carthage update```
 
